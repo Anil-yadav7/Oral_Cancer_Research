@@ -1,0 +1,67 @@
+[
+  {
+    "architecture": "efficientnet_b3",
+    "alpha": 0.0,
+    "test_accuracy": 96.29396984924622,
+    "best_val_accuracy": 96.88041594454073,
+    "macro_f1": 0.9690767195441479,
+    "macro_precision": 0.9690565018350394,
+    "macro_recall": 0.9691761658121087,
+    "train_images": 10228,
+    "real_images": 10228,
+    "synth_images": 0,
+    "run_directory": "/kaggle/working/runs/efficientnetb3/efficientnetb3_alpha_0p0"
+  },
+  {
+    "architecture": "efficientnet_b3",
+    "alpha": 0.25,
+    "test_accuracy": 96.10552763819095,
+    "best_val_accuracy": 96.39514731369151,
+    "macro_f1": 0.9671439819506912,
+    "macro_precision": 0.9683938943650009,
+    "macro_recall": 0.9659382069129452,
+    "train_images": 11159,
+    "real_images": 10228,
+    "synth_images": 931,
+    "run_directory": "/kaggle/working/runs/efficientnetb3/efficientnetb3_alpha_0p25"
+  },
+  {
+    "architecture": "efficientnet_b3",
+    "alpha": 0.5,
+    "test_accuracy": 96.35678391959799,
+    "best_val_accuracy": 96.67244367417678,
+    "macro_f1": 0.9701676226994378,
+    "macro_precision": 0.9701371441801847,
+    "macro_recall": 0.970224753961005,
+    "train_images": 12090,
+    "real_images": 10228,
+    "synth_images": 1862,
+    "run_directory": "/kaggle/working/runs/efficientnetb3/efficientnetb3_alpha_0p5"
+  },
+  {
+    "architecture": "efficientnet_b3",
+    "alpha": 0.75,
+    "test_accuracy": 96.35678391959799,
+    "best_val_accuracy": 96.04852686308492,
+    "macro_f1": 0.9690906483162826,
+    "macro_precision": 0.9687323739314306,
+    "macro_recall": 0.9694728194783971,
+    "train_images": 13019,
+    "real_images": 10228,
+    "synth_images": 2791,
+    "run_directory": "/kaggle/working/runs/efficientnetb3/efficientnetb3_alpha_0p75"
+  },
+  {
+    "architecture": "efficientnet_b3",
+    "alpha": 1.0,
+    "test_accuracy": 96.41959798994975,
+    "best_val_accuracy": 96.60311958405546,
+    "macro_f1": 0.9694326725777804,
+    "macro_precision": 0.9691733621564028,
+    "macro_recall": 0.9698467660639414,
+    "train_images": 13950,
+    "real_images": 10228,
+    "synth_images": 3722,
+    "run_directory": "/kaggle/working/runs/efficientnetb3/efficientnetb3_alpha_1p0"
+  }
+]

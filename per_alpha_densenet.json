@@ -1,0 +1,67 @@
+[
+  {
+    "architecture": "densenet121",
+    "alpha": 0.0,
+    "test_accuracy": 96.7964824120603,
+    "best_val_accuracy": 96.70710571923743,
+    "macro_f1": 0.9733315674500899,
+    "macro_precision": 0.9736671776212484,
+    "macro_recall": 0.9730413188520931,
+    "train_images": 10228,
+    "real_images": 10228,
+    "synth_images": 0,
+    "run_directory": "/kaggle/working/runs/densenet121/densenet121_alpha_0p0"
+  },
+  {
+    "architecture": "densenet121",
+    "alpha": 0.25,
+    "test_accuracy": 95.7286432160804,
+    "best_val_accuracy": 96.11785095320624,
+    "macro_f1": 0.9650457023278939,
+    "macro_precision": 0.9648715300152414,
+    "macro_recall": 0.9652741996351477,
+    "train_images": 11159,
+    "real_images": 10228,
+    "synth_images": 931,
+    "run_directory": "/kaggle/working/runs/densenet121/densenet121_alpha_0p25"
+  },
+  {
+    "architecture": "densenet121",
+    "alpha": 0.5,
+    "test_accuracy": 95.91708542713567,
+    "best_val_accuracy": 96.08318890814559,
+    "macro_f1": 0.9666503975887709,
+    "macro_precision": 0.9670872110444855,
+    "macro_recall": 0.966312058093694,
+    "train_images": 12090,
+    "real_images": 10228,
+    "synth_images": 1862,
+    "run_directory": "/kaggle/working/runs/densenet121/densenet121_alpha_0p5"
+  },
+  {
+    "architecture": "densenet121",
+    "alpha": 0.75,
+    "test_accuracy": 95.97989949748744,
+    "best_val_accuracy": 95.9792027729636,
+    "macro_f1": 0.965950968259125,
+    "macro_precision": 0.9658265923080988,
+    "macro_recall": 0.9661273638218667,
+    "train_images": 13019,
+    "real_images": 10228,
+    "synth_images": 2791,
+    "run_directory": "/kaggle/working/runs/densenet121/densenet121_alpha_0p75"
+  },
+  {
+    "architecture": "densenet121",
+    "alpha": 1.0,
+    "test_accuracy": 96.10552763819095,
+    "best_val_accuracy": 96.3258232235702,
+    "macro_f1": 0.9674444326464624,
+    "macro_precision": 0.9680087291190578,
+    "macro_recall": 0.9668901018971823,
+    "train_images": 13950,
+    "real_images": 10228,
+    "synth_images": 3722,
+    "run_directory": "/kaggle/working/runs/densenet121/densenet121_alpha_1p0"
+  }
+]
